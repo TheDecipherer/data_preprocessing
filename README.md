@@ -1,2 +1,2 @@
-# linear_regression
-A simple linear regression model
+# data_preprocessing
+A simple data preprocessing model
